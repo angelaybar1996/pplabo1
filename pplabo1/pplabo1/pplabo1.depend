@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1621463244 source:c:\users\ryzen 20\desktop\pplabo1\pplabo1\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+
+1621463259 c:\users\ryzen 20\desktop\pplabo1\pplabo1\auto.h
+	"utn.h"
+	"fecha.h"
+	"marca.h"
+	"color.h"
+
+1621455130 c:\users\ryzen 20\desktop\pplabo1\pplabo1\utn.h
+
+1621455120 c:\users\ryzen 20\desktop\pplabo1\pplabo1\fecha.h
+
+1621459374 c:\users\ryzen 20\desktop\pplabo1\pplabo1\marca.h
+
+1621455631 c:\users\ryzen 20\desktop\pplabo1\pplabo1\color.h
+
+1621458717 source:c:\users\ryzen 20\desktop\pplabo1\pplabo1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"utn.h"
+
+1621463832 source:c:\users\ryzen 20\desktop\pplabo1\pplabo1\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621463746 c:\users\ryzen 20\desktop\pplabo1\pplabo1\datawarehouse.h
+	"auto.h"
+	"fecha.h"
+	"trabajo.h"
+
+1621463510 c:\users\ryzen 20\desktop\pplabo1\pplabo1\trabajo.h
+	"fecha.h"
+	"marca.h"
+
+1621464001 source:c:\users\ryzen 20\desktop\pplabo1\pplabo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+	"utn.h"
+	"datawarehouse.h"
+	"marca.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1621456179 c:\users\ryzen 20\desktop\pplabo1\pplabo1\servicio.h
+
+1621459309 source:c:\users\ryzen 20\desktop\pplabo1\pplabo1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+	"utn.h"
+
+1621458913 source:c:\users\ryzen 20\desktop\pplabo1\pplabo1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621463731 source:c:\users\ryzen 20\desktop\pplabo1\pplabo1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"datawarehouse.h"
+	"trabajo.h"
+
+1621455130 source:c:\users\ryzen 20\desktop\pplabo1\pplabo1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
